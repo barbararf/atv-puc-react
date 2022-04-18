@@ -1,0 +1,15 @@
+.btn-global{
+    padding: 0.5rem ;    
+    background-color: #bd0101;
+    border: none;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    width: 7rem;
+    margin: 0.5rem;
+    transition: .2s;
+    font-size: 16px;
+    font-family: 'Noto Sans', sans-serif;
+    font-style: bold;
+    border-radius: 6px;
+    
+}
